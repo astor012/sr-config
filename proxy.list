@@ -30,6 +30,13 @@ DOMAIN-KEYWORD,threads
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tronlink
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,axios
+DOMAIN-KEYWORD,politico
+DOMAIN-KEYWORD,huffpost
+DOMAIN-KEYWORD,bloomberg
+DOMAIN-KEYWORD,foxnews
+DOMAIN-KEYWORD,cnn
+DOMAIN-KEYWORD,cnbc
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com

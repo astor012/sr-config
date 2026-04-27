@@ -20,6 +20,7 @@ DOMAIN-KEYWORD,flibusta
 DOMAIN-KEYWORD,hdrezka
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,kahoot
+DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,kinozal
 DOMAIN-KEYWORD,notion
 DOMAIN-KEYWORD,rezka
@@ -111,7 +112,6 @@ DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,x-minus.pro
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,composer.opera-api.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,deepl.com

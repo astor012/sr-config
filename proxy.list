@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,canva
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,digitalocean
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,flibusta
@@ -94,7 +95,6 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,harvestapp.com
 DOMAIN-SUFFIX,hostinger.com
 DOMAIN-SUFFIX,intel.com

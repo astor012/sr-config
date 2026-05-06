@@ -46,8 +46,9 @@ DOMAIN-KEYWORD,bloomberg
 DOMAIN-KEYWORD,foxnews
 DOMAIN-KEYWORD,linear
 DOMAIN-KEYWORD,cnn
-DOMAIN-KEYWORD,cnbc
+DOMAIN-KEYWORD,cnbc 
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,files.oaiusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,i.ytimg.com
